@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+aiosqlite==0.20.0
+APScheduler==3.10.4
+fastapi==0.111.0
+uvicorn==0.29.0
+httpx==0.27.0
